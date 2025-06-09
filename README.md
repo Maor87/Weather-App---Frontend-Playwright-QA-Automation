@@ -21,7 +21,7 @@ During this freelance project, I undertook the following critical testing respon
 * This allowed for isolation of issues, and verification of expected outcomes for each test component.
 * **Comprehensive Test Documentation & Reporting:** I created and maintained detailed **Test Documentation**, which included clearly defined **test cases**.
 * Upon completion of testing phases, I compiled a **Test Summary Report**. These documents provide a overview of the testing efforts, including coverage, findings.
-* You can view the full documentation here: (https://docs.google.com/spreadsheets/d/10b1DC__HNyE10vrPXHzMg4xkEEoDFjoZmgtP4OVSn7E/edit?gid=0#gid=0)
+* You can view the Test Case Documentation & Summary Test Report: (https://docs.google.com/spreadsheets/d/10b1DC__HNyE10vrPXHzMg4xkEEoDFjoZmgtP4OVSn7E/edit?gid=0#gid=0)
 * **Effective Bug Reporting:** I identified, documented, and reported **Bug Reports** for any defects discovered.
 * Each report included clear steps to reproduce, actual versus expected results, and relevant evidence such as screenshots, facilitating communication by the developer.
 
